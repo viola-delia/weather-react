@@ -69,3 +69,13 @@ h1 {
     margin-top: 10px;
  
 }
+
+hr {
+
+margin: 50px;
+border: 1px solid rgb(226, 224, 224);
+}
+
+footer {
+    text-align: center;
+}
